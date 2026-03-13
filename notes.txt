@@ -3,3 +3,6 @@ This project demonstrates Git workflow:
 2. Staging files
 3. Committing changes
 4. Branching and merging
+
+
+Feature update branch added new documentation.
