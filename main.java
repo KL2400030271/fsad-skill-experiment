@@ -3,3 +3,4 @@ public class Main {
         System.out.println("Git Skill Experiment");
     }
 }
+System.out.println("Git Skill Experiment - Bug Fix Applied");
